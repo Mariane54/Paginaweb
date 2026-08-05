@@ -6,6 +6,7 @@ header{
   margin: 0 auto;
   border: 5px solid #CF1010;
   padding: 16px;
+ font-family: "Chicle", serif;
 }
 main{
   display: flex;
@@ -14,6 +15,7 @@ main{
   text-align: center;
   max-width: 800px;
   margin: 0 auto;
+  font-family: "Chicle", serif;
 
 }
 img{
